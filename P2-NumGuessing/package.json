@@ -1,11 +1,11 @@
 {
-  "name": "guessing-num-game",
+  "name": "guessing-number",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "guessing-num-game": "./dist/index.js"
+    "guessing-number": "./dist/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

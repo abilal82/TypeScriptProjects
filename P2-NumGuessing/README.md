@@ -11,8 +11,8 @@
 ### To Install  and Run 
 
 <ol>
-    <li>npm i bil-guess-game</li>
-    <li>npx bil-guess-game</li>
+    <li>npm i guessing-number</li>
+    <li>npx guessing-number</li>
 </ol>
 
 

@@ -1,10 +1,10 @@
-This is just simple CLI based calculator. To run on your system follow the instructions.
+### This is just simple CLI based calculator. To run on your system follow the instructions.
 
 
 
 Step to follow:
 
-On Command line 
+### To Instal and Run
 
 1) npm i -g sim-calculator
 
